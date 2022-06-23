@@ -1,0 +1,72 @@
+
+.cover{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.container{
+    position: relative;
+    text-align:  justify;
+    width: 50%;
+    font-family: lucida;
+    font-style: italic;
+    font-size: larger;
+    padding-right: 20%;
+    
+}
+
+.base{
+    text-align: center;
+    text-decoration: underline;
+
+}
+#myphoto{
+    padding: 10px;
+    margin: 25px;
+    width: auto;
+    height:auto ;
+    margin-right: 25px;
+    text-indent: 10%;
+    float: left; 
+    
+}
+ 
+
+li{
+    font-style: italic;
+    text-indent: 230px;
+}
+h1{
+    font-style: italic;
+    text-indent: 10%;
+    }
+body{
+    background-color: bisque;
+}
+
+.spectrum{
+           display: flex;
+           font-family: cambria;
+
+}
+
+.column-left{ float: left;  width:33%; font-style: italic;}
+.column-right{ float:right; width: 33%; font-style: italic;}
+.column-center{display: inline-block;width:33%;font-style: italic;}
+
+.center{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.success{
+    font-family: combria;
+    font-style: italic;
+    font-size: medium;
+    font-display: bold;
+}

@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    margin: 20;
+    
+}
+a{
+    flex: content;
+    padding: 10px;
+    border: 5px solid transparent;
+    text-align: center;
+}
+img{
+    justify-content: left;
+    height: 300px;
+    width: fit-content;
+
+}
